@@ -1,0 +1,35 @@
+/*  Tablet Device  */
+@media (max-width:992px) {
+    /* about skills  */
+    .About {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .description p {
+        text-align: center;
+        font-size: 16px;
+        max-width: 600px;
+        margin: 20px auto;
+    }
+
+    .spacing {
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+
+    .skills h4 {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+
+    .skills {
+        margin: 0 auto;
+    }
+
+    .grid-content {
+        gap: 20px 20px;
+    }
+}

@@ -1,0 +1,14 @@
+/* Laptop Device  */
+
+@media (max-width:1200px) {
+    .container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    /* about skills  */
+    .About {
+        gap: 10px;
+        margin: 40px 20px 0px;
+    }
+}
